@@ -1,5 +1,5 @@
 
-*text = auto
+* text=auto
 
 #Custom to the Visual Studio
 *cs      diff=csharp
