@@ -1,2 +1,7 @@
 # Minesweeper-in-.NET
-Open Source  Minesweeper game in .NET framework T 
+Open Source  Minesweeper game in C# .NET framework
+
+Learn OOP programming by creating Games
+
+
+
