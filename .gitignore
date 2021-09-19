@@ -1,0 +1,5 @@
+bin
+*.userprefs
+generated.*
+obj
+*.suo
